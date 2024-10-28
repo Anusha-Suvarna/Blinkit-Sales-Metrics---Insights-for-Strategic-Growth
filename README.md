@@ -1,6 +1,7 @@
 # Blinkit Sales Metrics: Insights for Strategic Growth
 
-<img width="1000" alt="Mercato_Dashboard" src="https://github.com/user-attachments/assets/7b2cee3a-d0af-4b07-ab86-aa3505ccb82e">
+<img width="1000" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/4204f3ba-6234-434a-8550-5396311f0008">
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
